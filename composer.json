@@ -4,5 +4,8 @@
   "type": "drupal-module",
   "license": "GPL-2.0+",
   "homepage": "https://gitlab.com/drutopia/drutopia_comment",
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/config_actions": "^1.0-beta1",
+  }
 }
