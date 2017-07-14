@@ -4,6 +4,8 @@ type: module
 core: 8.x
 dependencies:
   - comment
+  - config_actions
+  - drutopia_core
   - field
   - node
   - rdf
