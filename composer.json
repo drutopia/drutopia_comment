@@ -5,11 +5,9 @@
   "license": "GPL-2.0+",
   "homepage": "https://gitlab.com/drutopia/drutopia_comment",
   "minimum-stability": "dev",
-  "version": "1.x-dev",
-  "version_normalized": "1.x-dev",
   "extra": {
     "branch-alias": {
-      "1.x-dev": "dev-1.x"
+      "dev-8.x-1.x": "1.x-dev"
     }
   },
   "require": {
