@@ -5,6 +5,13 @@
   "license": "GPL-2.0+",
   "homepage": "https://gitlab.com/drutopia/drutopia_comment",
   "minimum-stability": "dev",
+  "version": "dev-1.x",
+  "version_normalized": "dev-1.x",
+  "extra": {
+    "branch-alias": {
+      "dev-1.x": "1.x-dev"
+    }
+  },
   "require": {
     "drupal/config_actions": "^1.0-beta1"
   }
