@@ -1,16 +1,16 @@
 {
-  "name": "drupal/drutopia_comment",
-  "description": "Drutopia comment is a base feature providing comments and related configuration.",
-  "type": "drupal-module",
-  "license": "GPL-2.0+",
-  "homepage": "https://gitlab.com/drutopia/drutopia_comment",
-  "minimum-stability": "dev",
-  "extra": {
-    "branch-alias": {
-      "dev-8.x-1.x": "^1.0-alpha1"
+    "name": "drupal/drutopia_comment",
+    "description": "Drutopia comment is a base feature providing comments and related configuration.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "homepage": "https://gitlab.com/drutopia/drutopia_comment",
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-8.x-1.x": "^1.0-alpha1"
+        }
+    },
+    "require": {
+        "drupal/config_actions": "^1.0-beta1"
     }
-  },
-  "require": {
-    "drupal/config_actions": "^1.0-beta1"
-  }
 }
