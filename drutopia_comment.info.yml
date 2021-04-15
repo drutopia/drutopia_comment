@@ -1,8 +1,7 @@
 name: 'Drutopia Comment'
 description: 'Provides comments and related configuration.'
 type: module
-core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8.9 || ^9
 dependencies:
   - comment
   - config_actions
